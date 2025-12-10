@@ -6,8 +6,6 @@
 
 We have created a CI/CD pipeline using GitHub Actions, which utilizes AWS and Docker Hub secrets for secure deployments.
 
-# This is my GitHub Action Workflow File  -->  https://github.com/Pankaj8821/flask-app-deployment/blob/main/.github/workflows/flask-pipeline-main.yml
-
 # TERRAFORM
 # Create  S3 bucket  :
 
